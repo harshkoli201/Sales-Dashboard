@@ -17,3 +17,4 @@ To enhance user interactivity, we have integrated slicers into the dashboard. Th
 
 Conclusion:
 Overall, our sales dashboard in Excel, with its pivot charts and slicers, provides a powerful tool for monitoring and analyzing sales performance. It equips stakeholders with the insights needed to make informed decisions, optimize sales strategies, and ultimately drive business growth.
+![Sales Dashboard](https://github.com/harshkoli201/Sales-Dashboard/assets/55285590/da70d9d1-70a2-44ba-9eb4-350e19ef6e83)
